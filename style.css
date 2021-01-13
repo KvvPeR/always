@@ -1,0 +1,462 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.desktop{
+    position: relative;
+width: 1440px;
+height: 5046px;
+background: #FFFFFF;
+}
+.header{
+width: 1440px;
+height: 74px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 5px 10px rgba(4, 0, 98, 0.05);
+border-radius: 0px;
+display: inline-block;
+}
+.qqrt{
+    opacity: 0.1;
+    position: absolute;
+    top: 80px;
+    height: 700px;
+    width: 1440px;
+}
+.body{
+    background: rgb(189, 237, 252);
+    height: 700px;
+    width: 1440px;
+}
+.asd{
+    color: blue;
+    text-align: center;
+    font-size: 110px;
+    font-family: monospace;
+    top: 370px;
+    position: absolute;
+    left: 520px;
+}
+h2{
+    color: blue;
+    text-align: center;
+    font-size: 80px;
+    font-family: monospace;
+    position: absolute;
+    top: 220px;
+    left: 330px;
+}
+h3{
+    color: blue;
+    text-align: center;
+    font-size: 60px;
+    font-family: monospace;
+    position: absolute;
+    left: 450px;
+    top: 100px;
+}
+.qwe{
+    position: absolute;
+    top: 610px;
+    left: 1095px;
+}
+.zxc{
+    position: absolute;
+    top: 600px;
+    left: 0;
+}
+.zzz{
+    position: absolute;
+    width: 700px;
+    height: 900px;
+    background: rgb(243, 221, 225);
+    top: 900px;
+}
+.qqq{
+    position: absolute;
+    top: 1100px;
+    left: 210px;
+}
+.aaa{
+    position: absolute;
+    top: 1100px;
+    left: 750px;
+    font-size: 70px;
+    color: blue;
+    font-family: monospace;
+}
+.sss{
+    position: absolute;
+    top: 1300px;
+    left: 765px;
+    font-size: 40px;
+    color: blue;
+    font-family: monospace;
+}
+.qq{
+    position: absolute;
+    left: 530px;
+    top: 1495px;
+}
+.zz{
+    position: absolute;
+    top: 2000px;
+    left: 100px;
+    color: blue;
+    font-size: 56px;
+    width: 500px;
+    font-family: monospace;
+}
+.aa{
+    position: absolute;
+    top: 2200px;
+    left: 100px;
+    color: darkblue;
+    font-size: 25px;
+    width: 580px;
+}
+.ppp{
+    background: rgb(189, 237, 252);
+    width: 700px;
+    height: 900px;
+    position: absolute;
+    left: 700px;
+    top: 1820px;
+}
+.zzxx{
+    position: absolute;
+    top: 2230px;
+    left: 640px;
+}
+.zxxz{
+    position: absolute;
+    top: 2420px;
+    left: 540px;
+}
+.xzxz{
+    position: absolute;
+    top: 2000px;
+    left: 940px;
+}
+.faf{
+    position: absolute;
+    font-size: 40px;
+    color: rgb(70, 70, 226);
+}
+.qqqw{
+    position: absolute;
+    left: 420px;
+    width: 500px;
+    font-size: 30px;
+    font-family: monospace;
+    color: rgb(15, 15, 92);
+}
+.qwq{
+    position: absolute;
+    left: 460px;
+    top: 1410px;
+}
+.ggg{
+    position: absolute;
+    top: 450px;
+    left: 1060px;
+}
+.fff{
+    position: absolute;
+    left: 50px;
+    top: 490px;
+}
+.zxxc{
+    position: absolute;
+    width: 700px;
+    height: 900px;
+    background: rgb(243, 221, 225);
+    top: 2720px;
+}
+.qwew{
+    position: absolute;
+    top: 2900px;
+    left: 200px;
+}
+.qwqe{
+    position: absolute;
+    left: 480px;
+    top: 3200px;
+}
+.qwwq{
+    position: absolute;
+    top: 3330px;
+    left: 520px;
+}
+.j{
+    position: absolute;
+    left: 800px;
+    top: 2900px;
+    color: blue;
+    font-size: 55px;
+    width: 500px;
+    font-family: monospace;
+}
+.jj{
+    position: absolute;
+    left: 800px;
+    top: 3100px;
+    color: blue;
+    font-size: 20px;
+    width: 500px;
+    font-family: monospace;
+}
+.jjj{
+    position: absolute;
+    left: 800px;
+    top: 3200px;
+    color: blue;
+    font-size: 20px;
+    width: 500px;
+    font-family: monospace;
+}
+.y{
+    position: absolute;
+    left: 400px;
+    top: 700px;
+}
+.yy{
+    position: absolute;
+    left: 800px;
+    top: 700px;
+}
+.yyy{
+    position: absolute;
+    left: 680px;
+    top: 670px;
+}
+.b{
+    background: rgb(189, 237, 252);
+    width: 700px;
+    height: 900px;
+    position: absolute;
+    left: 700px;
+    top: 3620px;
+}
+.bb{
+    position: absolute;
+    top: 4130px;
+    left: 590px;
+}
+.bbb{
+    position: absolute;
+    top: 4232px;
+    left: 595px;
+}
+.bbbb{
+    position: absolute;
+    top: 3810px;
+    left: 920px;
+}
+.p{
+    position: absolute;
+    left: 10px;
+    top: 3850px;
+    color: blue;
+    font-size: 65px;
+    width: 680px;
+    font-family: monospace;
+}
+.pp{
+    position: absolute;
+    left: 10px;
+    top: 4050px;
+    color: blue;
+    font-size: 20px;
+    width: 600px;
+    font-family: monospace;
+}
+.m{
+    position: absolute;
+    top: 4700px;
+    left: 1200px;
+}
+.mm{
+    position: absolute;
+    top: 4700px;
+    left: 1233px;
+}
+.mmm{
+    position: absolute;
+    top: 4700px;
+    left: 1266px;
+}
+.mmmm{
+    position: absolute;
+    top: 4700px;
+    left: 1300px;
+}
+.n{
+    position: absolute;
+    top: 4700px;
+    font-size: 33px;
+    color: rgb(9, 9, 78);
+}
+.nn{
+    position: absolute;
+    top: 4700px;
+    left: 350px;
+    font-size: 25px;
+    color: rgb(9, 9, 78);
+}
+.nnn{
+    position: absolute;
+    top: 4740px;
+    left: 350px;
+    font-size: 15px;
+    color: rgb(103, 103, 170);
+}
+.nnnn{
+    position: absolute;
+    top: 4770px;
+    left: 350px;
+    font-size: 15px;
+    color: rgb(103, 103, 170);
+}
+.nnnnn{
+    position: absolute;
+    top: 4700px;
+    left: 550px;
+    font-size: 25px;
+    color: rgb(9, 9, 78);
+}
+.nnnnnn{
+    position: absolute;
+    top: 4740px;
+    left: 550px;
+    font-size: 15px;
+    color: rgb(9, 9, 78);
+}
+.nnnnnnn{
+    position: absolute;
+    top: 4770px;
+    left: 550px;
+    font-size: 15px;
+    color: rgb(9, 9, 78);
+}
+.nnnnnnnn{
+    position: absolute;
+    top: 4700px;
+    left: 750px;
+    font-size: 25px;
+    color: rgb(9, 9, 78);
+}
+.nnnnnnnnn{
+    position: absolute;
+    top: 4730px;
+    left: 750px;
+    font-size: 15px;
+    color: rgb(9, 9, 78);
+}
+.nnnnnnnnnn{
+    position: absolute;
+    top: 4720px;
+    left: 1200px;
+    color: rgb(9, 9, 78);
+}
+.nnnnnnnnnnn{
+    position: absolute;
+    top: 4740px;
+    left: 1200px;
+    color: rgb(9, 9, 78);
+}
+.nnnnnnnnnnnn{
+    position: absolute;
+    top: 4760px;
+    left: 1200px;
+    color: rgb(9, 9, 78);
+}
+.oi{
+    position: absolute;
+    height: 48px;
+    width: 179px;
+    left: 1200px;
+    top: 20px;
+    background: blue;
+    border-radius: 32px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-family: Ogg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center 
+}
+.dropbtn {
+    background-color: white;
+    color: blue;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: absolute;
+    display: inline-block;
+    left: 1100px;
+    top: 15px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:white;}
+.qqtr{
+    opacity: 0.1;
+    position: absolute;
+    top: 900px;
+    width: 700px;
+    height: 900px;
+}
+.lll{
+    opacity: 0.1;
+    position: absolute;
+    top: 3620px;
+    left: 700px;
+    width: 700px;
+    height: 900px;
+}
+.iii{
+    opacity: 0.1;
+    position: absolute;
+    top: 1820px;
+    left: 700px;
+    width: 700px;
+    height: 900px;
+}
+.uuu{
+    opacity: 0.1;
+    position: absolute;
+    top: 2720px;
+    width: 700px;
+    height: 900px;
+}
